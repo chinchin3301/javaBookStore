@@ -4,7 +4,6 @@ import database.dao.factory.DAOFactory;
 import database.dao.interfaces.LocalDAO;
 
 import javax.servlet.*;
-import javax.servlet.annotation.*;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;

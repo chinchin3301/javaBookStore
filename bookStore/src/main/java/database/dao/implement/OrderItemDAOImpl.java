@@ -1,6 +1,5 @@
 package database.dao.implement;
 
-import com.sun.org.apache.xpath.internal.operations.Or;
 import database.connectionp.ConnectionPool;
 import database.dao.interfaces.OrderItemDAO;
 import entity.OrderItem;

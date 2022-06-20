@@ -1,7 +1,6 @@
 package filter;
 
 import javax.servlet.*;
-import javax.servlet.annotation.*;
 import java.io.IOException;
 
 public class EncodingFilter implements Filter {
